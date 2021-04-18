@@ -1,16 +1,16 @@
-### Hi there 👋
+**Hello! My name is Nicolas, I am a Software Developer and Cybersecurity student.**
+
+[![Twitter Badge](https://img.shields.io/badge/-@Nicolas_opf-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Nicolas_opf "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-nicolasopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasopf/)](https://www.linkedin.com/in/nicolasopf/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolasopf&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasopf&layout=compact&theme=gotham)
 
 <!--
-**Nicolasopf/Nicolasopf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="DFA | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
 
-Here are some ideas to get you started:
+[<img align="left" alt="DFA | Twitter" width="35px" src="https://i.imgur.com/iYkheW1.png" />][Twitter]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Twitter]: https://www.twitter.com/Nicolas_opf/
+[Linkedin]: https://www.linkedin.com/in/nicolasopf/
 -->
