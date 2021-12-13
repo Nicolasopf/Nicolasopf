@@ -1,4 +1,4 @@
-**Hello! My name is Nicolas, I am a 17 y/o Software Developer and Cybersecurity student.**
+**Hello! My name is Nicolas, I am a 18 y/o Software Developer and Cybersecurity**
 
 [![Twitter Badge](https://img.shields.io/badge/-@Nicolas_opf-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Nicolas_opf "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasopf/)](https://www.linkedin.com/in/nicolasopf/)
