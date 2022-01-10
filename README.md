@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasopf/)](https://www.linkedin.com/in/nicolasopf/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolasopf&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasopf&layout=compact&theme=gotham)
 
 <!--
 [<img align="left" alt="DFA | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
